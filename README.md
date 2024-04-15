@@ -27,8 +27,15 @@ Web GIS를 활용한 공간정보서비스 개발
 
 ## Reference
 
+
 ## OSGEO 한국어 지구
 ## 봄
 ## 여름
 ## 가을
 ## 겨울
+
+# 개발언어
+## C
+## JAVA
+## PYTHON
+## GO
